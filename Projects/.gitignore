@@ -1,0 +1,10 @@
+# Ignore internal/unrelated folder
+P1/
+
+# Python cache & build files
+__pycache__/
+*.pyc
+
+# IDE configuration
+.vscode/
+.idea/
